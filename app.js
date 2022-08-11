@@ -21,6 +21,3 @@ app.get('/', (req,res)=>{
 });
 
 module.exports = app;
-
-console.log(13)
-
